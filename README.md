@@ -2,6 +2,8 @@
 
 ## How NPM or Yarn are working; Going to create our own package manager
 
+This project was created in a talk and the slides are available here at https://github.com/BaseMax/MNPM-GlobalSummitNodeJS23.
+
 ### Using
 
 ```bash
