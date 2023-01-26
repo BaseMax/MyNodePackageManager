@@ -1,5 +1,7 @@
 # MNPM (My Node Package Manager)
 
+Welcome to **MNPM** (My Node Package Manager), a new and own package manager designed in JavaScript. It works similarly to NPM or Yarn, allowing you to easily install and manage packages in your project.
+
 ## How NPM or Yarn are working; Going to create our own package manager
 
 This project was created in a talk and the slides are available here at https://github.com/BaseMax/MNPM-GlobalSummitNodeJS23.
