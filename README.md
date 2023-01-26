@@ -22,4 +22,6 @@ $ npm cli.js install github
 - `npm cli.js install <name>`
 - `npm cli.js delete <name>`
 
+Thank you for choosing MNPM as your package manager. We hope you find it useful in managing your project dependencies.
+
 Copyright (c) 2022, Max Base
